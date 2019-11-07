@@ -18,3 +18,14 @@ asdf;asdf;asdf;mastercard
 123;asdf;123;visa
 123;asdf;123;visa
 123;asdf;123;visa
+ asdf;asdf;123412341234;mastercard
+ ;asdf;123412341234;mastercard
+  ;asdf;123412341234;mastercard
+asdf asdf;asdf;123412341234;mastercard
+a-b;asdf;123412341234;mastercard
+qqwer;qwer;1234123412341234;visa
+asdf;asdf;4123123412341234;visa
+asdf;asdf;4123123412341234;visa
+asdf;asdf;4123123412341234;visa
+asdf;asf;4234123412341234;visa
+asdf;asf;5234123412341234;mastercard
